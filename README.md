@@ -1,9 +1,7 @@
 # centos-maven-install
 ====================
 
-This is a script that automates the download and installation of the latest maven 
-
-This was made with help from http://xmodulo.com/2012/05/how-to-install-maven-on-centos.html
+This is a script that automates the download and installation of the latest maven.
 
 ## How to run:
 
